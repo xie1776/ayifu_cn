@@ -10,4 +10,5 @@ return array(
     'think\\composer\\' => array($vendorDir . '/topthink/think-installer/src'),
     'think\\angular\\' => array($vendorDir . '/topthink/think-angular/src'),
     'think\\' => array($vendorDir . '/topthink/think-image/src'),
+    'Qiniu\\' => array($vendorDir . '/qiniu/php-sdk/src/Qiniu'),
 );

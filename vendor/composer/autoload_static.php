@@ -7,6 +7,7 @@ namespace Composer\Autoload;
 class ComposerStaticInit2a5a54131878577c5b232dfb0c5a590b
 {
     public static $files = array (
+        '841780ea2e1d6545ea3a253239d59c05' => __DIR__ . '/..' . '/qiniu/php-sdk/src/Qiniu/functions.php',
         '9e05116ddaa5b1d244b68c3993908acd' => __DIR__ . '/..' . '/topthink/think-queue/src/config.php',
     );
 
@@ -17,6 +18,10 @@ class ComposerStaticInit2a5a54131878577c5b232dfb0c5a590b
             'think\\composer\\' => 15,
             'think\\angular\\' => 14,
             'think\\' => 6,
+        ),
+        'Q' => 
+        array (
+            'Qiniu\\' => 6,
         ),
     );
 
@@ -36,6 +41,10 @@ class ComposerStaticInit2a5a54131878577c5b232dfb0c5a590b
         'think\\' => 
         array (
             0 => __DIR__ . '/..' . '/topthink/think-image/src',
+        ),
+        'Qiniu\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/qiniu/php-sdk/src/Qiniu',
         ),
     );
 

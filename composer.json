@@ -20,7 +20,8 @@
         "topthink/framework": "*",
         "topthink/think-angular": "^1.0",
         "topthink/think-queue": "dev-master",
-        "topthink/think-image": "^1.0"
+        "topthink/think-image": "^1.0",
+        "qiniu/php-sdk": "dev-master"
     },
     "extra": {
         "think-path": "thinkphp"
